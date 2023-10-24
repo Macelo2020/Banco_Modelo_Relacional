@@ -1,2 +1,9 @@
 # Banco_Modelo_Relacional
 Exercicio 2 Banco de Dados I - Proz
+
+
+Modelo Relacional com Atributos:
+Simples: Ex: Autônomos possui o atributo simples como: CPF
+Compostos: Ex: Autônomos possui o atributo composto como: Nome, CEP, E-mail
+Multivalorado: Ex: Clientes possui atributo multivalorado como: Nome, E-mail, Data de cadastro, CEP 
+
